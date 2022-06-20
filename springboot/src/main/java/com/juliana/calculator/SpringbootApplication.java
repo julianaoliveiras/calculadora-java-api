@@ -1,4 +1,4 @@
-package com.juliana;
+package com.juliana.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
