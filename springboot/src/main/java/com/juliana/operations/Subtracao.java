@@ -1,5 +1,8 @@
 package com.juliana.operations;
 
+import com.juliana.calculator.Simbolo;
+
+@Simbolo("-")
 public class Subtracao implements Operacao{
     
     @Override
